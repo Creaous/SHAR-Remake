@@ -12,7 +12,7 @@ I will NOT sell the game due to copyright reasons and I will NOT be monetising t
 The source code of this game will be avaliable on the github repository for free and if I receive copyright takedowns I will only takedown the build release and not the source code.
 
 ## Will you keep the original elements of the game?
-Yes. I will try to keep the original elements of the game in the remaster. I am basing the remaster off of a couple of YouTubers videos such as a video made by [Muckluck](https://www.youtube.com/user/MrMuckluckable).
+Yes. I will try to keep the original elements of the game in the remaster. I am basing the remaster off of a couple of YouTubers videos such as a video made by [Muckluck](https://www.youtube.com/watch?v=N7Ax_CmU6Y4).
 
 ## Will you be spending money on this game?
 No. I will try my best to make the assets myself and not to spend money on this game, I already have about 200+ assets in the marketplace that cost thousands. If I do spend money it will only be a very small amount.
