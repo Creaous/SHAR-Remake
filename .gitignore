@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 **/.vs/
 
+# Git LFS Folder
+**/lfs
+
 # Compiled Object files
 *.slo
 *.lo
