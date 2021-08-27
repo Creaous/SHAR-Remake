@@ -18,4 +18,4 @@ Yes. I will try to keep the original elements of the game in the remaster. I am 
 No. I will try my best to make the assets myself and not to spend money on this game, I already have about 200+ assets in the marketplace that cost thousands. If I do spend money it will only be a very small amount.
 
 # Info
-Activision owns the rights to The Simspons Hit and Run game while EA owns the rights to selling the Simpsons games. There is a very big chance that there will never be a remastered version of The Simspons Hit and Run. If there is a remaster it will probably have A TON of microtransactions as EA is a money hungry company that thinks that they aren't rich enough.
+Activision owns the rights to The Simpsons Hit and Run game while EA owns the rights to selling the Simpsons games. There is a very big chance that there will never be a remastered version of The Simspons Hit and Run. If there is a remaster it will probably have A TON of microtransactions as EA is a money hungry company that thinks that they aren't rich enough.
