@@ -1,3 +1,5 @@
+# STOPPED DEVELOPMENT
+
 # The Simpsons Hit and Run Remaster
 An attempt at remastering the game because EA won't.
 
